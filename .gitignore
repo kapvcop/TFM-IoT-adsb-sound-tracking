@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.logs
+certificados/
+*.perm
+*.key
+log_sistema.log
+env/
+venv/
+.env
+/home/raspbpi/enviroment_venv/
+eof
+git init
