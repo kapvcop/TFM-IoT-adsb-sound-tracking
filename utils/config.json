@@ -1,0 +1,15 @@
+{
+    "Latitud": "39.47210",
+    "Longitud": "-0.42014",
+    "distancia_inicial": 2850,
+    "distancia_final": 900,
+    "altura_det": 8000,
+    "altura_fin": 500,
+    "tiempo_inactividad": 10,
+    "ruta_dump1090": "/home/raspbpi/dump1090/dump1090",
+    "device_id": 1,
+    "samplerate": 44100,
+    "channels": 1,
+    "minsonido_db": 30,
+    "maxsonido_db": 100
+}
