@@ -1,7 +1,7 @@
 __pycache__/
 *.py[cod]
 *.logs
-certificados/
+*.crt
 *.perm
 *.key
 log_sistema.log
